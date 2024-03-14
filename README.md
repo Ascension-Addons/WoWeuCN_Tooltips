@@ -1,3 +1,3 @@
-# Addon Name
+# WoWeuCN_Tooltips
 
-This is the repository for <Addon Name>. Modified for Ascension.gg. 
+This is the repository for WoWeuCN_Tooltips. Modified for Ascension.gg. 
